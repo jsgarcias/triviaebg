@@ -1,0 +1,7 @@
+{
+  "entitlements": {
+    "FeedEvents": true,
+    "InstantRemixing": true,
+    "ProfileApp": false
+  }
+}
